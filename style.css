@@ -2,6 +2,12 @@ body {
     color: rgb(169, 222, 238);
     background-color: black;
 
+    @media screen and (max-width:768px) {
+        
+    }
+    @media screen and (max-width:600px) {
+        
+    }
 }
 
 
@@ -45,7 +51,7 @@ footer {
 }
 
 footer a {
-    margin: 20px;
+    margin: 15px;
     text-align: center;
     color: white;
     text-decoration: none;
